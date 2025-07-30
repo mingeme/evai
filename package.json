@@ -4,7 +4,7 @@
   "description": "evai like eval but with ai",
   "main": "dist/index.js",
   "bin": {
-    "aicommit": "./dist/index.js"
+    "evai": "./dist/index.js"
   },
   "scripts": {
     "build": "tsgo",
